@@ -1,0 +1,6 @@
+[submodule "fonts/Font-Awesome"]
+	path = fonts/Font-Awesome
+	url = https://github.com/FortAwesome/Font-Awesome.git
+[submodule "fonts/roboto"]
+	path = fonts/roboto
+	url = https://github.com/google/roboto
